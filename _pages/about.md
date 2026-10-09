@@ -46,6 +46,7 @@ latest_posts:
     text-decoration: none !important; transition: all 0.15s;
   }
   .link-btn:hover { background: var(--global-theme-color); color: #fff !important; }
+  .link-row { display: flow-root; text-align: center; margin-top: 0.5rem; }
 
   .news-table td { padding: 0.35rem 0.8rem 0.35rem 0; vertical-align: top; border: none; }
   .news-table td:first-child { white-space: nowrap; font-weight: 600; color: var(--global-theme-color); }
@@ -64,9 +65,11 @@ latest_posts:
   <li>Mobile: +82 10-7136-9153</li>
 </ul>
 
-<a class="link-btn" href="https://scholar.google.co.kr/citations?user=8tWAchsAAAAJ&hl=ko&oi=ao" target="_blank">Google Scholar</a>
-<a class="link-btn" href="http://www.linkedin.com/in/inguk-choi-840926304" target="_blank">LinkedIn</a>
-<a class="link-btn" href="https://github.com/Ingukchoi" target="_blank">GitHub</a>
+<div class="link-row">
+  <a class="link-btn" href="https://scholar.google.co.kr/citations?user=8tWAchsAAAAJ&hl=ko&oi=ao" target="_blank">Google Scholar</a>
+  <a class="link-btn" href="http://www.linkedin.com/in/inguk-choi-840926304" target="_blank">LinkedIn</a>
+  <a class="link-btn" href="https://github.com/Ingukchoi" target="_blank">GitHub</a>
+</div>
 
 <div style="clear: both;"></div>
 
