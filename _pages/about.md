@@ -46,7 +46,7 @@ latest_posts:
     text-decoration: none !important; transition: all 0.15s;
   }
   .link-btn:hover { background: var(--global-theme-color); color: #fff !important; }
-  .link-row { display: flow-root; text-align: center; margin-top: 0.5rem; }
+  .link-row { display: flow-root; text-align: left; padding-left: 1.5rem; margin-top: 0.5rem; }
 
   .news-table td { padding: 0.35rem 0.8rem 0.35rem 0; vertical-align: top; border: none; }
   .news-table td:first-child { white-space: nowrap; font-weight: 600; color: var(--global-theme-color); }
