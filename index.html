@@ -6,9 +6,9 @@
     initTheme();
   </script> </head> <body class="fixed-top-nav "> <header> <nav id="navbar" class="navbar navbar-light navbar-expand-sm fixed-top" role="navigation"> <div class="container"> <button class="navbar-toggler collapsed navbar-toggler-main" type="button" data-nav-toggle="navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar top-bar"></span> <span class="icon-bar middle-bar"></span> <span class="icon-bar bottom-bar"></span> </button> <div class="collapse navbar-collapse navbar-collapse-main" id="navbarNav"> <ul class="navbar-nav navbar-menu-list flex-nowrap"> <li class="nav-item active"> <a class="nav-link" href="/">Home <span class="sr-only">(current)</span> </a> </li> <li class="nav-item "> <a class="nav-link" href="/publications/">Publications </a> </li> <li class="nav-item "> <a class="nav-link" href="/awards/">Awards </a> </li> <li class="nav-item "> <a class="nav-link" href="/projects/">Projects </a> </li> <li class="nav-item"> <button id="search-toggle" type="button" title="Search" aria-label="Open search"> <span class="nav-link">ctrl k <i class="fa-solid fa-magnifying-glass"></i></span> </button> </li> <li class="toggle-container"> <button id="light-toggle" type="button" title="Change theme" aria-label="Change color theme"> <i class="fa-half-sun-moon" id="light-toggle-system"></i> <i class="fa-solid fa-moon" id="light-toggle-dark"></i> <i class="fa-solid fa-sun" id="light-toggle-light"></i> </button> </li> </ul> </div> </div> </nav> <progress id="progress" value="0"> <div class="progress-container"> <span class="progress-bar"></span> </div> </progress> </header> <div class="container mt-5" role="main"> <div class="post"> <header class="post-header"> <h1 class="post-title"> Inguk Choi </h1> <p class="desc"></p> </header> <article> <div class="profile float-left"> <figure> <picture> <source class="responsive-img-srcset" srcset="/assets/img/inguk-480.webp 480w,/assets/img/inguk-800.webp 800w,/assets/img/inguk-1400.webp 1400w," type="image/webp" sizes="(min-width: 930px) 270.0px, (min-width: 576px) 30vw, 95vw"> <img src="/assets/img/inguk.jpg?v=80ead3c6f632dbd2b747d0fd5536e5cb" class="img-fluid z-depth-1 rounded-circle" width="100%" height="auto" alt="inguk.jpg" loading="eager" onerror="this.onerror=null; document.querySelectorAll('.responsive-img-srcset').forEach(function (n) { n.remove(); });"> </source></picture> </figure> </div> <div class="clearfix"> <style>
   /* 프로필 사진: 작게 + 카톡처럼 정원형 */
-  .profile.float-left { width: 170px !important; margin-right: 2rem; }
+  .profile.float-left { width: 220px !important; margin-right: 2rem; }
   .profile img {
-    width: 170px; height: 170px;
+    width: 220px; height: 220px;
     aspect-ratio: 1 / 1;
     object-fit: cover;
     object-position: center 25%;
@@ -19,11 +19,11 @@
   }
 
   /* 오른쪽 정보: 불렛 */
-  .info-list { list-style: disc; padding-left: 1.2rem; margin-top: 0.3rem; }
+  .info-list { list-style: disc; padding-left: 1.2rem; margin-left: 0.8rem; margin-top: 0.7rem; }
   .info-list li { margin-bottom: 0.25rem; }
 
   /* 섹션 제목 두껍게 */
-  article h2 { font-weight: 700 !important; margin-top: 2rem; }
+  article h2 { font-weight: 500 !important; margin-top: 2rem; }
 
   /* 링크 버튼 */
   .link-btn {
