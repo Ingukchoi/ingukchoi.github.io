@@ -21,7 +21,7 @@ nav_order: 3
   .pj-row { display: grid; grid-template-columns: 150px 1fr; column-gap: 1.8rem; }
   .badge { display: block; text-align: center; background: var(--global-theme-color); color: #fff !important; font-weight: 700; font-size: 0.85rem; padding: 0.25rem 0.4rem; border-radius: 5px; box-shadow: 0 2px 6px rgba(0,0,0,0.15); }
   .pj-left { padding-top: 0.15rem; display: flex; flex-direction: column; gap: 0.45rem; }
-  .badge.outline { background: transparent; color: var(--global-theme-color) !important; border: 1.5px solid var(--global-theme-color); box-shadow: none; padding: calc(0.25rem - 1.5px) 0.4rem; }
+  .badge.outline { background: transparent; color: var(--global-theme-color) !important; border: 1px solid var(--global-theme-color); box-shadow: none; padding: calc(0.25rem - 1px) 0.4rem; }
   .pj-title { font-weight: 600; font-size: 1.05rem; line-height: 1.45; }
   .pj-ko { margin-top: 0.2rem; font-size: 0.92rem; color: var(--global-text-color-light); }
   .pj-partner { margin-top: 0.25rem; font-style: italic; }
@@ -32,7 +32,7 @@ nav_order: 3
     .pj-row { grid-template-columns: 1fr; row-gap: 0.6rem; }
     .pj-left { flex-direction: column; }
     .badge { display: block; width: 100%; padding: 0.3rem 0.4rem; }
-    .badge.outline { padding: calc(0.3rem - 1.5px) 0.4rem; }
+    .badge.outline { padding: calc(0.3rem - 1px) 0.4rem; }
   }
 </style>
 
