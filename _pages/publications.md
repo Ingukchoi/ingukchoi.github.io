@@ -141,7 +141,7 @@ nav_order: 1
     <div class="pub-left"><span class="badge">APIEMS 2026</span></div>
     <div class="pub-right">
       <div class="pub-title">A Generalizable DRL Scheduler for the Job Shop Scheduling Problem with AGVs</div>
-      <div class="pub-authors">Sihyun Lee, <span class="me">Inguk Choi</span>, and Hyun-Jung Kim</div>
+      <div class="pub-authors">S. Lee, <span class="me">I. Choi</span>, and H.-J. Kim</div>
       <div class="pub-venue">Asia-Pacific Industrial Engineering and Management Systems Conference (APIEMS), Busan, Korea, 2026.</div>
       <div class="pub-links"><span class="pub-tag">Accepted</span></div>
     </div>
