@@ -30,13 +30,9 @@ latest_posts:
     object-position: center 25%;
     border-radius: 50% !important;
   }
-  @media (max-width: 575px) {
-    .profile.float-left { margin-left: calc(50% - 110px); margin-right: 0; margin-bottom: 1rem; }
-    .info-list { clear: both; margin-top: 1rem; }
-  }
 
   /* 오른쪽 정보: 불렛 */
-  .info-list { display: flow-root; list-style: disc; padding-left: 1.2rem; margin-left: 0; margin-top: 1rem; }
+  .info-list { display: flow-root; list-style: disc; padding-left: 2.5rem; margin-left: 0; margin-top: 2rem; }
   .info-list li { margin-bottom: 0.25rem; }
 
   /* 섹션 제목 두껍게 */
@@ -50,6 +46,14 @@ latest_posts:
     text-decoration: none !important; transition: all 0.15s;
   }
   .link-btn:hover { background: var(--global-theme-color); color: #fff !important; }
+
+  .news-table td { padding: 0.35rem 0.8rem 0.35rem 0; vertical-align: top; border: none; }
+  .news-table td:first-child { white-space: nowrap; font-weight: 600; color: var(--global-theme-color); }
+
+  @media (max-width: 575px) {
+    .profile.float-left { margin-left: calc(50% - 110px); margin-right: 0; margin-bottom: 1rem; }
+    .info-list { clear: both; margin-top: 1rem; }
+  }
 
 </style>
 
@@ -90,11 +94,13 @@ latest_posts:
 
 ## 🔥 News
 
-- **Sep 25, 2026** Two papers got accepted at [NeurIPS 2026 (Main)](https://neurips.cc/) 🎉
-- **Sep 10, 2026** A paper got accepted at [EJOR](https://www.sciencedirect.com/journal/european-journal-of-operational-research) 🎉
-- **Aug 31, 2026** I won the Ph.D Fellowship from National Research Foundation of Korea (KRW 50M over two years) 🎉
-- **May 01, 2026** A paper got accepted at [IJCAI 2026 (Main)](https://2026.ijcai.org/) 🎉
-- **Dec 08, 2025** A paper got accepted at [TR-C](https://www.sciencedirect.com/journal/transportation-research-part-c-emerging-technologies) 🎉
-- **Oct 30, 2025** A paper got accepted at [IEEE RA-L](https://www.ieee-ras.org/publications/ra-l/) 🎉
-- **Sep 18, 2025** A paper got accepted at [NeurIPS 2025 (Main)](https://neurips.cc/Conferences/2025) 🎉
-- **Mar 02, 2024** I joined [MSS Lab](https://msslab.kaist.ac.kr/) at KAIST as an integrated M.S/Ph.D student 🎉
+<table class="news-table">
+  <tr><td>Sep 25, 2026</td><td>Two papers got accepted at <a href="https://neurips.cc/">NeurIPS 2026 (Main)</a> 🎉</td></tr>
+  <tr><td>Sep 10, 2026</td><td>A paper got accepted at <a href="https://www.sciencedirect.com/journal/european-journal-of-operational-research">EJOR</a> 🎉</td></tr>
+  <tr><td>Aug 31, 2026</td><td>I won the Ph.D Fellowship from National Research Foundation of Korea (KRW 50M over two years) 🎉</td></tr>
+  <tr><td>May 01, 2026</td><td>A paper got accepted at <a href="https://2026.ijcai.org/">IJCAI 2026 (Main)</a> 🎉</td></tr>
+  <tr><td>Dec 08, 2025</td><td>A paper got accepted at <a href="https://www.sciencedirect.com/journal/transportation-research-part-c-emerging-technologies">TR-C</a> 🎉</td></tr>
+  <tr><td>Oct 30, 2025</td><td>A paper got accepted at <a href="https://www.ieee-ras.org/publications/ra-l/">IEEE RA-L</a> 🎉</td></tr>
+  <tr><td>Sep 18, 2025</td><td>A paper got accepted at <a href="https://neurips.cc/Conferences/2025">NeurIPS 2025 (Main)</a> 🎉</td></tr>
+  <tr><td>Mar 02, 2024</td><td>I joined <a href="https://msslab.kaist.ac.kr/">MSS Lab</a> at KAIST as an integrated M.S/Ph.D student 🎉</td></tr>
+</table>
