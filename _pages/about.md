@@ -21,8 +21,27 @@ latest_posts:
 ---
 
 <style>
-  .info-list { list-style: none; padding-left: 0; margin-top: 0.5rem; }
+  /* 프로필 사진: 작게 + 카톡처럼 정원형 */
+  .profile.float-left { width: 170px !important; margin-right: 2rem; }
+  .profile img {
+    width: 170px; height: 170px;
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+    object-position: center 25%;
+    border-radius: 50% !important;
+  }
+  @media (max-width: 575px) {
+    .profile.float-left { float: none !important; margin: 0 auto 1.2rem; }
+  }
+
+  /* 오른쪽 정보: 불렛 */
+  .info-list { list-style: disc; padding-left: 1.2rem; margin-top: 0.3rem; }
   .info-list li { margin-bottom: 0.25rem; }
+
+  /* 섹션 제목 두껍게 */
+  article h2 { font-weight: 700 !important; margin-top: 2rem; }
+
+  /* 링크 버튼 */
   .link-btn {
     display: inline-block; padding: 0.3rem 0.9rem; margin: 0.4rem 0.4rem 0 0;
     border: 1.5px solid var(--global-theme-color); border-radius: 999px;
@@ -30,6 +49,8 @@ latest_posts:
     text-decoration: none !important; transition: all 0.15s;
   }
   .link-btn:hover { background: var(--global-theme-color); color: #fff !important; }
+
+  /* 뉴스 표 */
   .news-table td { padding: 0.35rem 0.8rem 0.35rem 0; vertical-align: top; border: none; }
   .news-table td:first-child { white-space: nowrap; font-weight: 600; color: var(--global-theme-color); }
 </style>
