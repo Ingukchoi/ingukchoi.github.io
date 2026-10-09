@@ -22,9 +22,9 @@ latest_posts:
 
 <style>
   /* 프로필 사진: 작게 + 카톡처럼 정원형 */
-  .profile.float-left { width: 170px !important; margin-right: 2rem; }
+  .profile.float-left { width: 220px !important; margin-right: 2rem; }
   .profile img {
-    width: 170px; height: 170px;
+    width: 220px; height: 220px;
     aspect-ratio: 1 / 1;
     object-fit: cover;
     object-position: center 25%;
@@ -35,11 +35,11 @@ latest_posts:
   }
 
   /* 오른쪽 정보: 불렛 */
-  .info-list { list-style: disc; padding-left: 1.2rem; margin-top: 0.3rem; }
+  .info-list { list-style: disc; padding-left: 1.2rem; margin-left: 0.8rem; margin-top: 0.7rem; }
   .info-list li { margin-bottom: 0.25rem; }
 
   /* 섹션 제목 두껍게 */
-  article h2 { font-weight: 700 !important; margin-top: 2rem; }
+  article h2 { font-weight: 500 !important; margin-top: 2rem; }
 
   /* 링크 버튼 */
   .link-btn {
