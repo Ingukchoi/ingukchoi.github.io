@@ -32,7 +32,7 @@ latest_posts:
   }
 
   /* 오른쪽 정보: 불렛 */
-  .info-list { display: flow-root; list-style: disc; padding-left: 2.5rem; margin-left: 0; margin-top: 2rem; }
+  .info-list { display: flow-root; list-style: disc; padding-left: 2.5rem; margin-left: 0; margin-top: 0; padding-top: 1.5rem; }
   .info-list li { margin-bottom: 0.25rem; }
 
   /* 섹션 제목 두껍게 */
@@ -53,7 +53,7 @@ latest_posts:
 
   @media (max-width: 575px) {
     .profile.float-left { margin-left: calc(50% - 110px); margin-right: 0; margin-bottom: 1rem; }
-    .info-list { clear: both; margin-top: 1rem; }
+    .info-list { clear: both; margin-top: 0; padding-top: 0.5rem; }
   }
 
 </style>
