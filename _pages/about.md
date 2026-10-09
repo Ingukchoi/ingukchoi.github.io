@@ -1,34 +1,83 @@
 ---
 layout: about
-title: about
+title: Home
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle:
 
 profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  align: left
+  image: inguk.jpg
+  image_circular: true
+  more_info:
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false
+social: false
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: false
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+<style>
+  .info-list { list-style: none; padding-left: 0; margin-top: 0.5rem; }
+  .info-list li { margin-bottom: 0.25rem; }
+  .link-btn {
+    display: inline-block; padding: 0.3rem 0.9rem; margin: 0.4rem 0.4rem 0 0;
+    border: 1.5px solid var(--global-theme-color); border-radius: 999px;
+    color: var(--global-theme-color) !important; font-size: 0.9rem; font-weight: 600;
+    text-decoration: none !important; transition: all 0.15s;
+  }
+  .link-btn:hover { background: var(--global-theme-color); color: #fff !important; }
+  .news-table td { padding: 0.35rem 0.8rem 0.35rem 0; vertical-align: top; border: none; }
+  .news-table td:first-child { white-space: nowrap; font-weight: 600; color: var(--global-theme-color); }
+</style>
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+<ul class="info-list">
+  <li><b>Integrated M.S/Ph.D Student</b></li>
+  <li>Department of Industrial and Systems Engineering, KAIST</li>
+  <li>E-mail: <a href="mailto:inguk0826@kaist.ac.kr">inguk0826@kaist.ac.kr</a></li>
+  <li>Mobile: +82 10-7136-9153</li>
+</ul>
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+<a class="link-btn" href="https://scholar.google.co.kr/citations?user=8tWAchsAAAAJ&hl=ko&oi=ao" target="_blank">Google Scholar</a>
+<a class="link-btn" href="http://www.linkedin.com/in/inguk-choi-840926304" target="_blank">LinkedIn</a>
+<a class="link-btn" href="https://github.com/Ingukchoi" target="_blank">GitHub</a>
+
+<div style="clear: both;"></div>
+
+## Education
+
+- **KAIST (Korea Advanced Institute of Science and Technology)**, Daejeon, South Korea
+  - Integrated M.S/Ph.D Student, Industrial and Systems Engineering
+  - Mar. 2024 – Present
+  - Advisor: [Prof. Hyun-Jung Kim](https://msslab.kaist.ac.kr/Professor/professor)
+- **Ajou University**, Suwon, South Korea
+  - B.S., Industrial Engineering
+  - Mar. 2018 – Feb. 2024 (Military Service: Apr. 2019 – Nov. 2020)
+  - GPA: 4.26/4.5 (Rank: 2/94)
+
+## Research Interests
+
+- Neural Combinatorial Optimization
+- AI-based Decision-Making for Scheduling Problems
+- Foundation Model for Scheduling Problems
+
+## Academic Activities
+
+- **Reviewer:** Neural Information Processing Systems (NeurIPS 2026)
+- **Invited Talks:** Ajou University (2024.05, In-person), KTH Royal Institute of Technology (2025.06, In-person), University of Auckland (2026.06, In-person)
+
+## 🔥 News
+
+<table class="news-table">
+  <tr><td>Sep 25, 2026</td><td>Two papers got accepted at <a href="https://neurips.cc/">NeurIPS 2026 (Main)</a> 🎉</td></tr>
+  <tr><td>Sep 10, 2026</td><td>A paper got accepted at <a href="https://www.sciencedirect.com/journal/european-journal-of-operational-research">EJOR</a> 🎉</td></tr>
+  <tr><td>Aug 31, 2026</td><td>I won the Ph.D Fellowship from National Research Foundation of Korea (KRW 50M over two years) 🎉</td></tr>
+  <tr><td>May 01, 2026</td><td>A paper got accepted at <a href="https://2026.ijcai.org/">IJCAI 2026 (Main)</a> 🎉</td></tr>
+  <tr><td>Dec 08, 2025</td><td>A paper got accepted at <a href="https://www.sciencedirect.com/journal/transportation-research-part-c-emerging-technologies">TR-C</a> 🎉</td></tr>
+  <tr><td>Oct 30, 2025</td><td>A paper got accepted at <a href="https://www.ieee-ras.org/publications/ra-l/">IEEE RA-L</a> 🎉</td></tr>
+  <tr><td>Sep 18, 2025</td><td>A paper got accepted at <a href="https://neurips.cc/Conferences/2025">NeurIPS 2025 (Main)</a> 🎉</td></tr>
+  <tr><td>Mar 02, 2024</td><td>I joined <a href="https://msslab.kaist.ac.kr/">MSS Lab</a> at KAIST as an integrated M.S/Ph.D student 🎉</td></tr>
+</table>
