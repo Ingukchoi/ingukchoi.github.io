@@ -35,9 +35,9 @@ nav_order: 1
   .pub-tag { border: 1px solid var(--global-theme-color); color: var(--global-theme-color); font-weight: 600; }
 
   /* 폰: 배지를 위로, 내용은 아래로 */
-  @media (max-width: 575px) {
-    .pub { grid-template-columns: 1fr; row-gap: 0.5rem; }
-    .badge { display: inline-block; padding: 0.2rem 0.8rem; }
+  @media (max-width: 767px) {
+    .pub { grid-template-columns: 1fr; row-gap: 0.6rem; }
+    .badge { display: block; width: 100%; padding: 0.3rem 0.4rem; }
     .pub-page-title { font-size: 2.3rem; }
   }
 </style>
