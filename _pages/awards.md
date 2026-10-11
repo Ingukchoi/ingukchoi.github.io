@@ -132,7 +132,7 @@ nav_order: 2
       <div class="aw-org">Ajou University, South Korea</div>
     </div>
     <div class="aw-right">
-      <div class="aw-title">Dean&#x27;s List</div>
+      <div class="aw-title">Dean&#x27;s List <span class="aw-rank">Top 5%</span></div>
       <div class="aw-comp">Academic excellence recognition</div>
     </div>
   </div>
