@@ -98,12 +98,12 @@ latest_posts:
 ## 🔥 News
 
 <table class="news-table">
-  <tr><td>Sep 25, 2026</td><td>Two papers got accepted at <a href="https://neurips.cc/">NeurIPS 2026 (Main)</a> 🎉</td></tr>
-  <tr><td>Sep 10, 2026</td><td>A paper got accepted at <a href="https://www.sciencedirect.com/journal/european-journal-of-operational-research">EJOR</a> 🎉</td></tr>
-  <tr><td>Aug 31, 2026</td><td>I won the Ph.D Fellowship from National Research Foundation of Korea (KRW 50M over two years) 🎉</td></tr>
-  <tr><td>May 01, 2026</td><td>A paper got accepted at <a href="https://2026.ijcai.org/">IJCAI 2026 (Main)</a> 🎉</td></tr>
-  <tr><td>Dec 08, 2025</td><td>A paper got accepted at <a href="https://www.sciencedirect.com/journal/transportation-research-part-c-emerging-technologies">TR-C</a> 🎉</td></tr>
-  <tr><td>Oct 30, 2025</td><td>A paper got accepted at <a href="https://www.ieee-ras.org/publications/ra-l/">IEEE RA-L</a> 🎉</td></tr>
-  <tr><td>Sep 18, 2025</td><td>A paper got accepted at <a href="https://neurips.cc/Conferences/2025">NeurIPS 2025 (Main)</a> 🎉</td></tr>
-  <tr><td>Mar 02, 2024</td><td>I joined <a href="https://msslab.kaist.ac.kr/">MSS Lab</a> at KAIST as an integrated M.S/Ph.D student 🎉</td></tr>
+  <tr><td>Sep 25, 2026</td><td>Two papers got accepted at <a href="https://neurips.cc/">NeurIPS 2026 (Main)</a></td></tr>
+  <tr><td>Sep 10, 2026</td><td>A paper got accepted at <a href="https://www.sciencedirect.com/journal/european-journal-of-operational-research">EJOR</a></td></tr>
+  <tr><td>Aug 31, 2026</td><td>I won the Ph.D Fellowship from National Research Foundation of Korea (KRW 50M over two years) </td></tr>
+  <tr><td>May 01, 2026</td><td>A paper got accepted at <a href="https://2026.ijcai.org/">IJCAI 2026 (Main)</a> </td></tr>
+  <tr><td>Dec 08, 2025</td><td>A paper got accepted at <a href="https://www.sciencedirect.com/journal/transportation-research-part-c-emerging-technologies">TR-C</a></td></tr>
+  <tr><td>Oct 30, 2025</td><td>A paper got accepted at <a href="https://www.ieee-ras.org/publications/ra-l/">IEEE RA-L</a></td></tr>
+  <tr><td>Sep 18, 2025</td><td>A paper got accepted at <a href="https://neurips.cc/Conferences/2025">NeurIPS 2025 (Main)</a></td></tr>
+  <tr><td>Mar 02, 2024</td><td>I joined <a href="https://msslab.kaist.ac.kr/">MSS Lab</a> at KAIST as an integrated M.S/Ph.D student </td></tr>
 </table>
