@@ -105,7 +105,7 @@ nav_order: 1
       <div class="pub-title">Towards a Unified Model for Flexible Job Shop Scheduling with Diverse Constraints</div>
       <div class="pub-authors"><span class="me">Inguk Choi</span>, Woo-Jin Shin, Sang-Hyun Cho, and Hyun-Jung Kim</div>
       <div class="pub-venue">Advances in Neural Information Processing Systems (NeurIPS), Sydney, Australia, 2026. (A* Conference)</div>
-      <div class="pub-links"><span class="pub-tag">Accepted</span></div>
+      <div class="pub-links"><a class="pub-btn" href="https://neurips.cc/virtual/2026/loc/sydney/poster/149188" target="_blank">Paper</a></div>
     </div>
   </div>
   <div class="pub">
@@ -114,7 +114,7 @@ nav_order: 1
       <div class="pub-title">SchedDiff: Diffusion-Based Priority Refinement for Job Shop Scheduling</div>
       <div class="pub-authors">Dong-Yoon Oh, Sang-Hyun Cho, <span class="me">Inguk Choi</span>, and Hyun-Jung Kim</div>
       <div class="pub-venue">Advances in Neural Information Processing Systems (NeurIPS), Sydney, Australia, 2026. (A* Conference)</div>
-      <div class="pub-links"><span class="pub-tag">Accepted</span></div>
+      <div class="pub-links"><a class="pub-btn" href="https://neurips.cc/virtual/2026/loc/sydney/poster/149295" target="_blank">Paper</a></div>
     </div>
   </div>
   <div class="pub">
