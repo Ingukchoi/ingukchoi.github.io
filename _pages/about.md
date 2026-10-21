@@ -88,7 +88,7 @@ latest_posts:
 
 - Neural Combinatorial Optimization
 - AI-based Decision-Making for Scheduling Problems
-- Foundation Model for Scheduling Problems
+- Foundation Models for Scheduling Problems
 
 ## Academic Activities
 
