@@ -181,7 +181,6 @@ nav_order: 1
       <div class="pub-authors"><span class="me">I. Choi</span>, S.-Y. Hwang, J. Ahn, J. Lee, S. Joo, K. Kim, H. Lee, Y. Song, and H.-J. Kim</div>
       <div class="pub-venue">Winter Simulation Conference (WSC), Seattle, USA, 2025.</div>
       <div class="pub-note">Collaboration with Samsung Electronics</div>
-      <div class="pub-links"><a class="pub-btn" href="https://ieeexplore.ieee.org/abstract/document/11338944" target="_blank">Paper</a></div>
     </div>
   </div>
   <div class="pub">
