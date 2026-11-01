@@ -46,7 +46,7 @@ nav_order: 1
 <h1 class="pub-page-title">Papers</h1>
 <div class="pub-page-desc">Published work, manuscripts under review, and ongoing research.</div>
 
-<h2 class="pub-h2">Under Review</h2>
+<h2 class="pub-h2">Working Papers</h2>
   <div class="pub">
     <div class="pub-left"><span class="badge review">In preparation</span></div>
     <div class="pub-right">
