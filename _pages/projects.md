@@ -46,7 +46,7 @@ nav_order: 3
   <div class="pj-row">
     <div class="pj-left"><span class="badge">Fellowship</span></div>
     <div class="pj-right">
-      <div class="pj-title">Ph.D Fellowship</div>
+      <div class="pj-title">Ph.D. Fellowship</div>
       <div class="pj-ko">박사과정생 연구장려금 지원사업</div>
       <div class="pj-partner">Funded by National Research Foundation of Korea</div>
     </div>
@@ -57,7 +57,7 @@ nav_order: 3
   <div class="pj-row">
     <div class="pj-left"><span class="badge">Government</span></div>
     <div class="pj-right">
-      <div class="pj-title">Basic research lab for AI-based stochastic optimization algorithms</div>
+      <div class="pj-title">Basic Research Lab for AI-based Stochastic Optimization Algorithms</div>
       <div class="pj-ko">인공지능기반 추계최적화 알고리즘 개발 기초연구실, 기초연구실/한국연구재단</div>
       <div class="pj-partner">National R&D</div>
     </div>
@@ -90,7 +90,7 @@ nav_order: 3
   <div class="pj-row">
     <div class="pj-left"><span class="badge">Government</span></div>
     <div class="pj-right">
-      <div class="pj-title">Defense intelligent swarm systems research center</div>
+      <div class="pj-title">Defense Intelligent Swarm Systems Research Center</div>
       <div class="pj-ko">국방지능형 군집체계 연구센터, ITRC</div>
       <div class="pj-partner">National R&D</div>
     </div>
@@ -101,7 +101,7 @@ nav_order: 3
   <div class="pj-row">
     <div class="pj-left"><span class="badge">Government</span></div>
     <div class="pj-right">
-      <div class="pj-title">Autonomous scheduling for swift and efficient adaptation to dynamic manufacturing environments</div>
+      <div class="pj-title">Autonomous Scheduling for Swift and Efficient Adaptation to Dynamic Manufacturing Environments</div>
       <div class="pj-ko">제조 환경 변화에 유연하게 대응가능한 자율운영 스케줄링 방법론 개발, 한우물파기/NRF</div>
       <div class="pj-partner">National R&D</div>
     </div>
