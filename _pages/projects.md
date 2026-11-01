@@ -58,7 +58,7 @@ nav_order: 3
     <div class="pj-left"><span class="badge">Government</span></div>
     <div class="pj-right">
       <div class="pj-title">Basic Research Lab for AI-based Stochastic Optimization Algorithms</div>
-      <div class="pj-ko">인공지능기반 추계최적화 알고리즘 개발 기초연구실, 기초연구실/한국연구재단</div>
+      <div class="pj-ko">인공지능기반 추계최적화 알고리즘 개발 기초연구실, 기초연구실/NRF</div>
       <div class="pj-partner">National R&D</div>
     </div>
   </div>
@@ -91,7 +91,7 @@ nav_order: 3
     <div class="pj-left"><span class="badge">Government</span></div>
     <div class="pj-right">
       <div class="pj-title">Defense Intelligent Swarm Systems Research Center</div>
-      <div class="pj-ko">국방지능형 군집체계 연구센터, ITRC</div>
+      <div class="pj-ko">국방지능형 군집체계 연구센터, ITRC/IITP</div>
       <div class="pj-partner">National R&D</div>
     </div>
   </div>
