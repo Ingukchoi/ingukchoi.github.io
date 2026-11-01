@@ -53,6 +53,17 @@ nav_order: 3
   </div>
 </div>
 <div class="pj-item">
+  <div class="pj-year">Jun. 2025 – Present</div>
+  <div class="pj-row">
+    <div class="pj-left"><span class="badge">Government</span></div>
+    <div class="pj-right">
+      <div class="pj-title">Basic research lab for AI-based stochastic optimization algorithms</div>
+      <div class="pj-ko">인공지능기반 추계최적화 알고리즘 개발 기초연구실, 기초연구실/한국연구재단</div>
+      <div class="pj-partner">with Samsung Display</div>
+    </div>
+  </div>
+</div>
+<div class="pj-item">
   <div class="pj-year">Apr. 2025 – Mar. 2026</div>
   <div class="pj-row">
     <div class="pj-left"><span class="badge">Industry</span><span class="badge outline">Project Manager</span></div>
@@ -70,6 +81,28 @@ nav_order: 3
     <div class="pj-right">
       <div class="pj-title">Reinforcement Learning-based OLED FAB Multi-agent Scheduling</div>
       <div class="pj-ko">강화학습 기반 OLED FAB Multi-agent 생산스케줄링 연구</div>
+      <div class="pj-partner">with Samsung Display</div>
+    </div>
+  </div>
+</div>
+<div class="pj-item">
+  <div class="pj-year">Jul. 2024 – Present</div>
+  <div class="pj-row">
+    <div class="pj-left"><span class="badge">Government</span></div>
+    <div class="pj-right">
+      <div class="pj-title">Defense intelligent swarm systems research center</div>
+      <div class="pj-ko">국방지능형 군집체계 연구센터, ITRC</div>
+      <div class="pj-partner">with Samsung Display</div>
+    </div>
+  </div>
+</div>
+<div class="pj-item">
+  <div class="pj-year">Mar. 2024 – Present</div>
+  <div class="pj-row">
+    <div class="pj-left"><span class="badge">Government</span></div>
+    <div class="pj-right">
+      <div class="pj-title">Autonomous scheduling for swift and efficient adaptation to dynamic manufacturing environments</div>
+      <div class="pj-ko">제조 환경 변화에 유연하게 대응가능한 자율운영 스케줄링 방법론 개발, 한우물파기/NRF</div>
       <div class="pj-partner">with Samsung Display</div>
     </div>
   </div>
