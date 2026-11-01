@@ -44,9 +44,16 @@ nav_order: 1
 
 <div class="pub-eyebrow">Research</div>
 <h1 class="pub-page-title">Papers</h1>
-<div class="pub-page-desc">Published work and manuscripts currently under review.</div>
+<div class="pub-page-desc">Published work, manuscripts under review, and ongoing research.</div>
 
 <h2 class="pub-h2">Under Review</h2>
+  <div class="pub">
+    <div class="pub-left"><span class="badge review">In preparation</span></div>
+    <div class="pub-right">
+      <div class="pub-title">Towards Foundation Models for Scheduling Problems</div>
+      <div class="pub-authors"><span class="me">Inguk Choi</span> and Hyun-Jung Kim</div>
+    </div>
+  </div>
   <div class="pub">
     <div class="pub-left"><span class="badge review">Under Review</span></div>
     <div class="pub-right">
