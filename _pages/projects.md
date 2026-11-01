@@ -59,7 +59,7 @@ nav_order: 3
     <div class="pj-right">
       <div class="pj-title">Basic Research Lab for AI-based Stochastic Optimization Algorithms</div>
       <div class="pj-ko">인공지능기반 추계최적화 알고리즘 개발 기초연구실, 기초연구실/NRF</div>
-      <div class="pj-partner">National R&D</div>
+      <div class="pj-partner">Funded by National Research Foundation of Korea</div>
     </div>
   </div>
 </div>
@@ -92,7 +92,7 @@ nav_order: 3
     <div class="pj-right">
       <div class="pj-title">Defense Intelligent Swarm Systems Research Center</div>
       <div class="pj-ko">국방지능형 군집체계 연구센터, ITRC/IITP</div>
-      <div class="pj-partner">National R&D</div>
+      <div class="pj-partner">Funded by Institute of Information & Coummunications Technology Planning & Evaluation of Korea</div>
     </div>
   </div>
 </div>
@@ -103,7 +103,7 @@ nav_order: 3
     <div class="pj-right">
       <div class="pj-title">Autonomous Scheduling for Swift and Efficient Adaptation to Dynamic Manufacturing Environments</div>
       <div class="pj-ko">제조 환경 변화에 유연하게 대응가능한 자율운영 스케줄링 방법론 개발, 한우물파기/NRF</div>
-      <div class="pj-partner">National R&D</div>
+      <div class="pj-partner">Funded by National Research Foundation of Korea</div>
     </div>
   </div>
 </div>
