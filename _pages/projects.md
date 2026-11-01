@@ -38,7 +38,7 @@ nav_order: 3
 
 <div class="pub-eyebrow">Research</div>
 <h1 class="pub-page-title">Projects</h1>
-<div class="pub-page-desc">Research fellowships and industry collaborations.</div>
+<div class="pub-page-desc">Research fellowships, government-funded projects, and industry collaborations.</div>
 
 <div class="pj-list">
 <div class="pj-item">
