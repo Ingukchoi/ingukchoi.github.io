@@ -50,7 +50,7 @@ nav_order: 1
   <div class="pub">
     <div class="pub-left"><span class="badge review">In Preparation</span></div>
     <div class="pub-right">
-      <div class="pub-title">Learning Parallel Dispatching with Machine Agents for Flexible Job Shop Scheduling</div>
+      <div class="pub-title">Learning Fast and Parallel Dispatching for the Flexible Job Shop Scheduling Problem</div>
       <div class="pub-authors"><span class="me">Inguk Choi</span> and Hyun-Jung Kim</div>
     </div>
   </div>
