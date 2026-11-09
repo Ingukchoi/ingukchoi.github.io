@@ -48,13 +48,6 @@ nav_order: 1
 
 <h2 class="pub-h2">Working Papers</h2>
   <div class="pub">
-    <div class="pub-left"><span class="badge review">Under Review</span></div>
-    <div class="pub-right">
-      <div class="pub-title">Deep Reinforcement Learning for Multi-Objective Flexible Job Shop Scheduling Considering AGV Charging</div>
-      <div class="pub-authors">Seungkyu Yoon, <span class="me">Inguk Choi</span>, and Hyun-Jung Kim</div>
-    </div>
-  </div>
-  <div class="pub">
     <div class="pub-left"><span class="badge review">In Preparation</span></div>
     <div class="pub-right">
       <div class="pub-title">Learning Fast and Parallel Dispatching for Flexible Job Shop Scheduling</div>
@@ -66,6 +59,13 @@ nav_order: 1
     <div class="pub-right">
       <div class="pub-title">Towards Foundation Models for Scheduling Problems</div>
       <div class="pub-authors"><span class="me">Inguk Choi</span> and Hyun-Jung Kim</div>
+    </div>
+  </div>
+  <div class="pub">
+    <div class="pub-left"><span class="badge review">Under Review</span></div>
+    <div class="pub-right">
+      <div class="pub-title">Deep Reinforcement Learning for Multi-Objective Flexible Job Shop Scheduling Considering AGV Charging</div>
+      <div class="pub-authors">Seungkyu Yoon, <span class="me">Inguk Choi</span>, and Hyun-Jung Kim</div>
     </div>
   </div>
   <div class="pub">
