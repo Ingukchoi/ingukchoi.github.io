@@ -214,6 +214,14 @@ nav_order: 1
   </div>
 <h3 class="pub-h3">Domestic</h3>
   <div class="pub">
+    <div class="pub-left"><span class="badge">KIIE 2025</span></div>
+    <div class="pub-right">
+      <div class="pub-title">A Unified Model for Flexible Job Shop Scheduling with Diverse Constraints</div>
+      <div class="pub-authors"><span class="me">I. Choi</span> and H.-J. Kim</div>
+      <div class="pub-venue">The Fall Conference of Korean Institute of Industrial Engineers (KIIE), Busan, 2026</div>
+    </div>
+  </div>
+  <div class="pub">
     <div class="pub-left"><span class="badge">KIIE 2026</span></div>
     <div class="pub-right">
       <div class="pub-title">Graph Reinforcement Learning-based Integrated Scheduling for OLED TFT Array Manufacturing</div>
