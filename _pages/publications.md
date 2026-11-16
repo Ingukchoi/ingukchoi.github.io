@@ -50,6 +50,13 @@ nav_order: 1
   <div class="pub">
     <div class="pub-left"><span class="badge review">In Preparation</span></div>
     <div class="pub-right">
+      <div class="pub-title">Display Fab Scheduling under Reticle and Queue-Time Constraints via Graph-Based Learning</div>
+      <div class="pub-authors">Sang-Hyun Cho, <span class="me">Inguk Choi</span>, Boyoon Choi, Sehwan Kim, and Hyun-Jung Kim</div>
+    </div>
+  </div>
+  <div class="pub">
+    <div class="pub-left"><span class="badge review">In Preparation</span></div>
+    <div class="pub-right">
       <div class="pub-title">Learning Fast and Parallel Dispatching for Flexible Job Shop Scheduling</div>
       <div class="pub-authors"><span class="me">Inguk Choi</span> and Hyun-Jung Kim</div>
     </div>
