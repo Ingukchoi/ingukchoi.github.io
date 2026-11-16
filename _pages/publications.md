@@ -219,7 +219,7 @@ nav_order: 1
     <div class="pub-left"><span class="badge">KIIE 2026</span></div>
     <div class="pub-right">
       <div class="pub-title">A Unified Model for Flexible Job Shop Scheduling with Diverse Constraints</div>
-      <div class="pub-authors"><span class="me">I. Choi</span>, Woo-Jin Shin, Sang-Hyun Cho, and Hyun-Jung Kim</div>
+      <div class="pub-authors"><span class="me">Inguk Choi</span>, Woo-Jin Shin, Sang-Hyun Cho, and Hyun-Jung Kim</div>
       <div class="pub-venue">The Fall Conference of Korean Institute of Industrial Engineers (KIIE), Busan, 2026</div>
     </div>
   </div>
