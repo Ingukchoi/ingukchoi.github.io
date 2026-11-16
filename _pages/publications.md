@@ -64,13 +64,6 @@ nav_order: 1
   <div class="pub">
     <div class="pub-left"><span class="badge review">Under Review</span></div>
     <div class="pub-right">
-      <div class="pub-title">Deep Reinforcement Learning for Multi-Objective Flexible Job Shop Scheduling Considering AGV Charging</div>
-      <div class="pub-authors">Seungkyu Yoon, <span class="me">Inguk Choi</span>, and Hyun-Jung Kim</div>
-    </div>
-  </div>
-  <div class="pub">
-    <div class="pub-left"><span class="badge review">Under Review</span></div>
-    <div class="pub-right">
       <div class="pub-title">Learning a Unified Production and Charging Policy with Heterogeneous AGV Fleets in Manufacturing Systems</div>
       <div class="pub-authors">Seungkyu Yoon, <span class="me">Inguk Choi</span>, and Hyun-Jung Kim</div>
     </div>
@@ -158,6 +151,15 @@ nav_order: 1
   </div>
 <h2 class="pub-h2">Conference Presentations</h2>
 <h3 class="pub-h3">International</h3>
+  <div class="pub">
+    <div class="pub-left"><span class="badge">SPS 2027</span></div>
+    <div class="pub-right">
+      <div class="pub-title">Deep Reinforcement Learning for Multi-Objective Flexible Job Shop Scheduling Considering AGV Charging</div>
+      <div class="pub-authors">S. Yoon, <span class="me">I. Choi</span>, and H.-J. Kim</div>
+      <div class="pub-venue">Swedish Production Symposium (SPS), Stockholm, Sweden, 2027</div>
+      <div class="pub-links"><span class="pub-tag">Accepted</span></div>
+    </div>
+  </div>
   <div class="pub">
     <div class="pub-left"><span class="badge">APIEMS 2026</span></div>
     <div class="pub-right">
